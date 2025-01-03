@@ -19,9 +19,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/428px-CSS.3.svg.png?20160504153216" width='45'>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width='60'>&nbsp;<br>
 
-<img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg" width='200'>&nbsp;
-<img src="https://mdsoft.co.th/images/knowledge/se_logo.png" width='250'>&nbsp;
-<img src="https://uploads.sitepoint.com/wp-content/uploads/2016/02/1455890377postmanlogo.jpg" width='250'>&nbsp;<br>
+<img src="https://www.ambient-it.net/wp-content/uploads/2019/07/Logo-Selenium-200x175.jpg" width='200'>&nbsp;
+<img src="https://image.pngaaa.com/42/95042-middle.png" width='250'>&nbsp;<br>
 <img src="https://www.scottbrady91.com/img/logos/swagger-banner.png" width='250'>&nbsp;
 <img src="https://wp-bullet.com/wp-content/uploads/2020/04/gtmetrix-speed-test-logo-wide.png" width='250'>&nbsp;
 <img src="https://madeinmedia.es/blog/wp-content/uploads/2020/10/GOOGLE-LIGHTHOUSE-e1603877617447.jpg" width='250'>&nbsp;
