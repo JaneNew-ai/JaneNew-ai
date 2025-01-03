@@ -30,4 +30,10 @@
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/claude-color.png" width='60'>&nbsp;
 <img src="https://play-lh.googleusercontent.com/Z_fquqqNzAd8FkpSjlnURnMtmLh8HRf_h_kIwhs0NbXKpO4WZ_fyZfi0f5yQsNmRL_lP=w240-h480-rw" width='60'>&nbsp;
 <img src="https://www.socialmediadissect.com/wp-content/uploads/2024/06/Website-covers-3-2.png" width='60'>&nbsp;
-<img src="https://victorycto.com/wp-content/uploads/2023/12/x-grok.png" width='180'>&nbsp;
+<img src="https://victorycto.com/wp-content/uploads/2023/12/x-grok.png" width='180'>&nbsp;<br>
+
+<img src="https://logonoid.com/images/pycharm-logo.png" width='60'>&nbsp;
+<img src="https://brandslogos.com/wp-content/uploads/images/large/webstorm-icon-logo.png" width='60'>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width='60'>&nbsp;
+<img src="https://img.stackshare.io/service/4004/w5MfsnMn_400x400.jpg" width='60'>&nbsp;
+<img src="https://images.freeimages.com/fic/images/icons/2561/1st_mx_is_4c/256/notepad.png" width='60'>&nbsp;
