@@ -20,7 +20,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width='60'>&nbsp;<br>
 
 <img src="https://www.ambient-it.net/wp-content/uploads/2019/07/Logo-Selenium-200x175.jpg" width='60'>&nbsp;
-<img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-dsydvxav.png" width='60'>&nbsp;<br>
+<img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-dsydvxav.png" width='60'>&nbsp;
 <img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" width='60'>&nbsp;
 <img src="https://www.jose-aguilar.com/blog/wp-content/uploads/2015/09/gtmetrix.png" width='60'>&nbsp;
 <img src="https://madeinmedia.es/blog/wp-content/uploads/2020/10/GOOGLE-LIGHTHOUSE-e1603877617447.jpg" width='250'>&nbsp;
