@@ -4,7 +4,7 @@
 
 
 ## Languages and Tools :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp; #Python
 <img src="https://www.lionblogger.com/wp-content/uploads/2017/12/js.jpg" width='60'>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width='60'>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" width='100'>&nbsp;
