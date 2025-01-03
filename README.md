@@ -1,10 +1,11 @@
-### Hi there 👋 my name is [Evgeniia Novikova](https://www.linkedin.com/in/novikova-evgeniia/), I am a Software QA Automation + AI Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60">
+<div align="right" >### Hi there 👋 my name is [Evgeniia Novikova](https://www.linkedin.com/in/novikova-evgeniia/),<br> I am a Software QA Automation + AI Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60">
+</div>d
 
 <img src="https://static.wixstatic.com/media/54c3a8_20a3ad451dd940e3a8388b2fd47c6b57~mv2.gif" width="800">
 
 
 ## Languages and Tools :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp; #Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp;
 <img src="https://www.lionblogger.com/wp-content/uploads/2017/12/js.jpg" width='60'>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width='60'>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" width='100'>&nbsp;
