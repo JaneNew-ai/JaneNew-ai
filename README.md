@@ -35,5 +35,5 @@
 <img src="https://logonoid.com/images/pycharm-logo.png" width='60'>&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/webstorm-icon-logo.png" width='60'>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width='60'>&nbsp;
-<img src="https://img.stackshare.io/service/4004/w5MfsnMn_400x400.jpg" width='60'>&nbsp;
+<img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-512x512-3u5pqmy9.png" width='60'>&nbsp;
 <img src="https://images.freeimages.com/fic/images/icons/2561/1st_mx_is_4c/256/notepad.png" width='60'>&nbsp;
