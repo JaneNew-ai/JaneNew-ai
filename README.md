@@ -1,4 +1,4 @@
-<div align="center">Hi there 👋 my name is [Evgeniia Novikova], I am a Software QA Automation + AI Engineer <br>
+<div align="center">Hi there 👋 my name is Evgeniia Novikova, I am a Software QA Automation + AI Engineer <br>
 <a href='https://www.linkedin.com/in/novikova-evgeniia/'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg'
 </a>
