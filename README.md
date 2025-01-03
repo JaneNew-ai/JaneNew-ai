@@ -15,4 +15,4 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' width='100'>&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width='100'>&nbsp;
 <img src='https://media.licdn.com/dms/image/v2/D4D12AQEc4YLRNTSGrw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689011619106?e=2147483647&v=beta&t=gvuz_3wbeN0tFJ0rmk_3zaHWR3oPe0H3dSCxngu8kNM' width='100'>&nbsp;
-<img src='https://cdn.iconscout.com/icon/free/png-256/free-xml-file-icon-download-in-svg-png-gif-formats--document-doc-pack-files-folders-icons-1950399.png?f=webp&w=256' width='100'>&nbsp;
+<img src='https://cdn.iconscout.com/icon/free/png-256/free-xml-file-icon-download-in-svg-png-gif-formats--document-doc-pack-files-folders-icons-1950399.png?f=webp&w=256' width='70'>&nbsp;
