@@ -36,4 +36,10 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/webstorm-icon-logo.png" width='60'>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width='60'>&nbsp;
 <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-512x512-3u5pqmy9.png" width='60'>&nbsp;
-<img src="https://images.freeimages.com/fic/images/icons/2561/1st_mx_is_4c/256/notepad.png" width='60'>&nbsp;
+<img src="https://images.freeimages.com/fic/images/icons/2561/1st_mx_is_4c/256/notepad.png" width='60'>&nbsp;<br>
+
+<img src="https://www.liblogo.com/img-logo/go307g947-google-chrome-logo-google-chrome-new-logo-free-icon-of-google-new-logos.png" width='60'>&nbsp;
+<img src="https://toppng.com/uploads/preview/apple-safari-logo-11549680208swuyqxp97v.png" width='60'>&nbsp;
+<img src="https://pluspng.com/img-png/mozilla-firefox-logo-png-firefox-png-images-free-img-691x691.png" width='60'>&nbsp;
+<img src="https://www.liblogo.com/img-logo/mi303e822-microsoft-edge-logo-edge-browser-logo-free-icon-of-browsers-logos.png" width='60'>&nbsp;
+<img src="https://www.liblogo.com/img-logo/op221f6b0-opera-logo-file-opera-2015-icon-svg-wikimedia-commons.png" width='60'>&nbsp;
