@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/novikova-evgeniia/'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg'
 </a>
-  <img src='https://medium.com/@dilkushi.j/select-an-automation-tool-to-your-project-91932c0646f4'
+  <img src='https://miro.medium.com/v2/resize:fit:700/1*V7lmKNExHMHi0y87wVJoPg.jpeg'
 </div>
 
 
