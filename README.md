@@ -21,7 +21,7 @@
 
 <img src="https://www.ambient-it.net/wp-content/uploads/2019/07/Logo-Selenium-200x175.jpg" width='60'>&nbsp;
 <img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-dsydvxav.png" width='60'>&nbsp;<br>
-<img src="https://www.scottbrady91.com/img/logos/swagger-banner.png" width='250'>&nbsp;
-<img src="https://wp-bullet.com/wp-content/uploads/2020/04/gtmetrix-speed-test-logo-wide.png" width='250'>&nbsp;
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" width='60'>&nbsp;
+<img src="https://www.jose-aguilar.com/blog/wp-content/uploads/2015/09/gtmetrix.png" width='60'>&nbsp;
 <img src="https://madeinmedia.es/blog/wp-content/uploads/2020/10/GOOGLE-LIGHTHOUSE-e1603877617447.jpg" width='250'>&nbsp;
 <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width='250'>&nbsp;
