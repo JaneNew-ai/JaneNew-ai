@@ -9,8 +9,8 @@
   
 
 ## Languages and Tools :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp;
-<img src="https://www.lionblogger.com/wp-content/uploads/2017/12/js.jpg" width='60'>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='50'>&nbsp;
+<img src="https://www.lionblogger.com/wp-content/uploads/2017/12/js.jpg" width='50'>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width='60'>&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' width='100'>&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width='100'>&nbsp;
