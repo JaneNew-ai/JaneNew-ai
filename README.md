@@ -24,4 +24,7 @@
 <img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" width='60'>&nbsp;
 <img src="https://www.jose-aguilar.com/blog/wp-content/uploads/2015/09/gtmetrix.png" width='60'>&nbsp;
 <img src="https://www.assistancy.be/wp-content/uploads/2020/05/lighthouse-logo.png?x89733" width='60'>&nbsp;
-<img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width='250'>&nbsp;
+<img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width='250'>&nbsp;<br>
+
+<img src="https://its.unc.edu/wp-content/uploads/sites/337/2023/12/Microsoft_365_Copilot_Icon.png" width='60'>&nbsp;
+<img src="https://miro.medium.com/v2/0*uUCqQeGZhXIAg6r2" width='60'>&nbsp;
