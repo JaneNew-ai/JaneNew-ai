@@ -7,8 +7,9 @@
 
 
   
-<div>
-   <img src='https://www.pngfind.com/pngs/m/380-3809329_software-testing-icon-png-qa-tester-transparent-png.png' width='60' Languages and Tools :
+<div align="center">
+   <img src='https://www.pngfind.com/pngs/m/380-3809329_software-testing-icon-png-qa-tester-transparent-png.png' width='60'>
+     <p> Languages and Tools : </p>
 </div>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='50'>&nbsp;
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width='60'>&nbsp;
