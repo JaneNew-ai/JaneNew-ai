@@ -6,8 +6,6 @@
   
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60">
 
-   <img src="https://static.wixstatic.com/media/54c3a8_20a3ad451dd940e3a8388b2fd47c6b57~mv2.gif" width="800">
-
 
 
 ## Languages and Tools :
