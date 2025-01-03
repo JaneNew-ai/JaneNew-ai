@@ -1,4 +1,4 @@
-<div align="center">Hi there 👋 my name is Evgeniia Novikova, I am a Software QA Automation + AI Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60"><br>
+<div align="center">Hi there 👋 my name is Evgeniia Novikova, <br> I am a Software QA Automation + AI Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60"><br>
 <a href='https://www.linkedin.com/in/novikova-evgeniia/'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg'
 </a><br>
