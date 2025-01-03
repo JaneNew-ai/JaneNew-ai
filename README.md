@@ -19,5 +19,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/428px-CSS.3.svg.png?20160504153216" width='45'>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width='60'>&nbsp;<br>
 
-<img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg" width='100'>&nbsp;
-<img src="https://mdsoft.co.th/images/knowledge/se_logo.png" width='100'>&nbsp;
+<img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg" width='200'>&nbsp;
+<img src="https://mdsoft.co.th/images/knowledge/se_logo.png" width='250'>&nbsp;
