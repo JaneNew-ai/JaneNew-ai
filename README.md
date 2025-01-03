@@ -21,4 +21,8 @@
 
 <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg" width='200'>&nbsp;
 <img src="https://mdsoft.co.th/images/knowledge/se_logo.png" width='250'>&nbsp;
-<img src="https://uploads.sitepoint.com/wp-content/uploads/2016/02/1455890377postmanlogo.jpg" width='250'>&nbsp;
+<img src="https://uploads.sitepoint.com/wp-content/uploads/2016/02/1455890377postmanlogo.jpg" width='250'>&nbsp;<br>
+<img src="https://www.scottbrady91.com/img/logos/swagger-banner.png" width='250'>&nbsp;
+<img src="https://wp-bullet.com/wp-content/uploads/2020/04/gtmetrix-speed-test-logo-wide.png" width='250'>&nbsp;
+<img src="https://madeinmedia.es/blog/wp-content/uploads/2020/10/GOOGLE-LIGHTHOUSE-e1603877617447.jpg" width='250'>&nbsp;
+<img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width='250'>&nbsp;
