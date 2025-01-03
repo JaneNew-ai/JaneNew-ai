@@ -4,9 +4,6 @@
 </a>
 </div>
   
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60">
-
-
 
 ## Languages and Tools :
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='60'>&nbsp;
