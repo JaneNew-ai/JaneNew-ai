@@ -28,3 +28,6 @@
 
 <img src="https://its.unc.edu/wp-content/uploads/sites/337/2023/12/Microsoft_365_Copilot_Icon.png" width='60'>&nbsp;
 <img src="https://miro.medium.com/v2/0*uUCqQeGZhXIAg6r2" width='60'>&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/claude-color.png" width='60'>&nbsp;
+<img src="https://play-lh.googleusercontent.com/Z_fquqqNzAd8FkpSjlnURnMtmLh8HRf_h_kIwhs0NbXKpO4WZ_fyZfi0f5yQsNmRL_lP=w240-h480-rw" width='60'>&nbsp;
+<img src="https://www.socialmediadissect.com/wp-content/uploads/2024/06/Website-covers-3-2.png" width='60'>&nbsp;
