@@ -1,6 +1,6 @@
 <div align="center">Hello, my name is Evgeniia Novikova, <br> I am a Software QA Automation + AI Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60"><br>
 <a href='https://www.linkedin.com/in/novikova-evgeniia/'>
-  <img src='https://daderonan.com/wp-content/uploads/2014/10/LinkedIn-Follow-Me.png' width='200'
+  <img src='https://martechcube.com/wp-content/uploads/2015/09/linkedin-button.png' width='200'
 </a><br>
   <img src='https://miro.medium.com/v2/resize:fit:700/1*V7lmKNExHMHi0y87wVJoPg.jpeg'
 </div>
