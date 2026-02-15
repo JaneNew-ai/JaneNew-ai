@@ -8,107 +8,11 @@
 
   
 ## Languages and Tools: 
-🔹 Automation & Frameworks
-
-Playwright (Python)
-
-Selenium WebDriver
-
-Cucumber (BDD)
-
-Pytest
-
-Unittest
-
-REST API Automation
-
-Swagger
-
-Postman
-
-🔹 Programming Languages
-
-Python
-
-JavaScript
-
-SQL
-
-XPath
-
-HTML5
-
-CSS3
-
-🔹 Performance & Accessibility
-
-Apache JMeter
-
-Google Lighthouse
-
-Mozilla Observatory
-
-WCAG 2.1 Compliance Testing
-
-🔹 CI/CD & DevOps
-
-Git
-
-GitHub
-
-Jenkins
-
-GitHub Actions
-
-CI/CD Pipelines
-
-Docker
-
-Docker Compose
-
-🔹 Testing Types
-
-UI / UX Testing
-
-API Testing
-
-End-to-End Testing
-
-Regression Testing
-
-Performance Testing
-
-Exploratory Testing
-
-Accessibility Testing
-
-Cross-Browser Testing
-
-🔹 Development & Test Management Tools
-
-BrowserStack
-
-Chrome DevTools
-
-PyCharm
-
-WebStorm
-
-Sublime Text
-
-🔹 Documentation & QA Processes
-
-Test Plans
-
-Test Cases
-
-RTM (Requirements Traceability Matrix)
-
-Bug Reports
-
-Agile Scrum
-
-Waterfall
-
-SBTM (Session-Based Test Management)
+**Automation & Frameworks:** Playwright (Python) | Selenium WebDriver | Cucumber (BDD) | Pytest | Unittest | REST API Automation | Swagger | Postman
+**Programming Languages:** Python | JavaScript | SQL | XPath | HTML5 | CSS3
+**Performance & Accessibility:** Apache JMeter | Lighthouse | Mozilla Observatory | WCAG 2.1
+**CI/CD & DevOps:** Git | GitHub | Jenkins | GitHub Actions | CI/CD Pipelines | Docker | Docker Compose
+**Testing Types:** UI/UX | API | End-to-End | Regression | Performance | Exploratory | Accessibility | Cross-Browser
+**Tools:** BrowserStack | Chrome DevTools | PyCharm | WebStorm | Sublime Text
+**QA Processes:** Test Plans | Test Cases | RTM | Bug Reports | Agile Scrum | Waterfall | SBTM
 
