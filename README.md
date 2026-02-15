@@ -6,7 +6,7 @@
 </div>
 
 
-  
+ ## 
 **Core Stack:** Playwright (Python) | Selenium | Pytest | REST API Automation  
 **Languages:** Python | JavaScript | SQL  
 **CI/CD & DevOps:** Git | GitHub | GitHub Actions | Jenkins | Docker  
