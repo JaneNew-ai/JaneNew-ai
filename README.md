@@ -11,9 +11,13 @@
 </div>
 
 
+<div align="center">
 
-**Core Stack:** Playwright (Python) | Selenium | Pytest | REST API Automation  
-**Languages:** Python | JavaScript | SQL  
-**CI/CD & DevOps:** Git | GitHub | GitHub Actions | Jenkins | Docker  
-**Testing:** End-to-End | API | Regression | Cross-Browser  
-**Tools:** Postman | Swagger | BrowserStack | JMeter  
+<b>Core Stack:</b> Playwright (Python) | Selenium | Pytest | REST API Automation<br>
+<b>Languages:</b> Python | JavaScript | SQL<br>
+<b>CI/CD &amp; DevOps:</b> Git | GitHub | GitHub Actions | Jenkins | Docker<br>
+<b>Testing:</b> End-to-End | API | Regression | Cross-Browser<br>
+<b>Tools:</b> Postman | Swagger | BrowserStack | JMeter
+
+</div>
+
