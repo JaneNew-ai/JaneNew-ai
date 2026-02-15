@@ -7,12 +7,8 @@
 
 
   
-## Languages and Tools: 
-**Automation & Frameworks:** Playwright (Python) | Selenium WebDriver | Cucumber (BDD) | Pytest | Unittest | REST API Automation | Swagger | Postman
-**Programming Languages:** Python | JavaScript | SQL | XPath | HTML5 | CSS3
-**Performance & Accessibility:** Apache JMeter | Lighthouse | Mozilla Observatory | WCAG 2.1
-**CI/CD & DevOps:** Git | GitHub | Jenkins | GitHub Actions | CI/CD Pipelines | Docker | Docker Compose
-**Testing Types:** UI/UX | API | End-to-End | Regression | Performance | Exploratory | Accessibility | Cross-Browser
-**Tools:** BrowserStack | Chrome DevTools | PyCharm | WebStorm | Sublime Text
-**QA Processes:** Test Plans | Test Cases | RTM | Bug Reports | Agile Scrum | Waterfall | SBTM
-
+**Core Stack:** Playwright (Python) | Selenium | Pytest | REST API Automation  
+**Languages:** Python | JavaScript | SQL  
+**CI/CD & DevOps:** Git | GitHub | GitHub Actions | Jenkins | Docker  
+**Testing:** End-to-End | API | Regression | Cross-Browser  
+**Tools:** Postman | Swagger | BrowserStack | JMeter  
